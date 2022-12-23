@@ -18,11 +18,10 @@ a {
   padding-inline: 10px;
   text-align: center;
   text-decoration: none;
-  transition: color 0.2s, filter 0.2s;
+  transition: filter 0.2s;
 }
 
 a:hover{
-  color: white;
   filter: drop-shadow(2px 4px 6px black);
 }
   
